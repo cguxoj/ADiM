@@ -1,0 +1,9 @@
+Bilet parkingowy
+Rejestracja: WAD 3131
+Czas wykupiony: 125.0 minut
+Płatność dokonana: 25.0 PLN
+Płatność kartą: TAK
+Zapłacono monetami: 26.00 PLN
+Zapłacono kartą: 3.00 PLN
+Reszta: 4.0 PLN
+Godzina wydania: 21:16:47
